@@ -13,3 +13,12 @@
     padding: 10px;
     width: 50%;
 }
+.cajas{
+        position: relative; 
+        top: 60px;
+        left: 340px;
+}
+button{
+    color: blue;
+    background-color: lightblue;
+}
