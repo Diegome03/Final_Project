@@ -1,9 +1,8 @@
-window.onload = function ()
-{
+window.onload = function () {
+
     var erasebutton = document.getElementById("erase-task");
 
-    erasebutton.onclick = function()
-    {
+    erasebutton.onclick = function () {
         localStorage.clear()
         location.reload();
     }
